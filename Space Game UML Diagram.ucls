@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="false" 
+  realizations="false" associations="true" dependencies="false" nesting-relationships="false" router="FAN">  
+  <class id="1" language="java" name="main.Textures" project="Space Game" file="/Space Game/src/main/Textures.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="587" width="197" x="783" y="1137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="main.ScoreCounter" project="Space Game" 
+    file="/Space Game/src/main/ScoreCounter.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="227" width="161" x="-123" y="1137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="main.Menu" project="Space Game" file="/Space Game/src/main/Menu.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="317" width="201" x="-105" y="780"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="main.KeyInput" project="Space Game" file="/Space Game/src/main/KeyInput.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="181" x="269" y="-60"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="main.Controller" project="Space Game" file="/Space Game/src/main/Controller.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="317" width="271" x="311" y="780"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="main.MouseInput" project="Space Game" file="/Space Game/src/main/MouseInput.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="173" width="213" x="490" y="-60"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="7" language="java" name="main.Game.STATE" project="Space Game" file="/Space Game/src/main/Game.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="135" x="136" y="780"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="8" language="java" name="main.Physics" project="Space Game" file="/Space Game/src/main/Physics.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="352" x="-123" y="-60"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="main.BufferedImageLoader" project="Space Game" 
+    file="/Space Game/src/main/BufferedImageLoader.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="119" width="204" x="539" y="1890"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="main.entities.GameObject" project="Space Game" 
+    file="/Space Game/src/main/entities/GameObject.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="713" width="193" x="78" y="1137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="main.Game" project="Space Game" file="/Space Game/src/main/Game.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="587" width="216" x="622" y="153"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="main.entities.EntityEnemy" project="Space Game" 
+    file="/Space Game/src/main/entities/EntityEnemy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="193" x="311" y="1137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="main.entities.HealthBar" project="Space Game" 
+    file="/Space Game/src/main/entities/HealthBar.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="194" x="1057" y="1890"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="main.entities.Player" project="Space Game" 
+    file="/Space Game/src/main/entities/Player.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="155" width="209" x="1020" y="1137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="main.DeathScreen" project="Space Game" 
+    file="/Space Game/src/main/DeathScreen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="209" width="143" x="622" y="780"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="main.entities.Enemy" project="Space Game" 
+    file="/Space Game/src/main/entities/Enemy.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="155" width="251" x="1008" y="-60"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="17" language="java" name="main.SpriteSheet" project="Space Game" 
+    file="/Space Game/src/main/SpriteSheet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="137" width="234" x="783" y="1890"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="main.Main" project="Space Game" file="/Space Game/src/main/Main.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="124" x="1299" y="-60"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="main.entities.Bullet" project="Space Game" 
+    file="/Space Game/src/main/entities/Bullet.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="155" width="225" x="743" y="-60"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="main.entities.EntityFriendly" project="Space Game" 
+    file="/Space Game/src/main/entities/EntityFriendly.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="101" width="199" x="544" y="1137"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="21">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="22" name="deathScreen"/>      
+      <multiplicity id="23" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="24">    
+    <bendpoint x="830" y="780"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="25" name="player"/>      
+      <multiplicity id="26" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="27">    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="28" name="game"/>      
+      <multiplicity id="29" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="30">    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="31" name="game"/>      
+      <multiplicity id="32" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="33">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="34" name="player"/>      
+      <multiplicity id="35" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="36">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="37" name="tex"/>      
+      <multiplicity id="38" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="39">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="40" name="controller"/>      
+      <multiplicity id="41" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="42">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="43" name="entities"/>      
+      <multiplicity id="44" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="45">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="46" name="menu"/>      
+      <multiplicity id="47" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="48">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="49" name="friends"/>      
+      <multiplicity id="50" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="51">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="52" name="healthBar"/>      
+      <multiplicity id="53" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="54">    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="55" name="state"/>      
+      <multiplicity id="56" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="57">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="58" name="spriteSheet"/>      
+      <multiplicity id="59" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="60">    
+    <bendpoint x="795" y="780"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="61" name="textures"/>      
+      <multiplicity id="62" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="63">    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="64" name="loader"/>      
+      <multiplicity id="65" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="66">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="67" name="scoreCounter"/>      
+      <multiplicity id="68" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="69">    
+    <end type="SOURCE" refId="5" navigable="false">      
+      <attribute id="70" name="enemies"/>      
+      <multiplicity id="71" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
